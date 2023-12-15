@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35eacb06a69ff44438ed7eb355e722c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Input Prompt.prefab
+  uploadId: 489201

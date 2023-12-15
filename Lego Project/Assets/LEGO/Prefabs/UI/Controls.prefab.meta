@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b23e1fc73ddf414eb915223522f6e6c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Controls.prefab
+  uploadId: 489201

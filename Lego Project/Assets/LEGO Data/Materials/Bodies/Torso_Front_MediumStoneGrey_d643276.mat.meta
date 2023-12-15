@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f745ecdfab2c64358b31371a758f0075
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Torso_Front_MediumStoneGrey_d643276.mat
+  uploadId: 489201

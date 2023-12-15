@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32d1c180c23534cf3b63a49182f142d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Materials/LEGO Behaviour Icons/Counter Trigger Side.mat
+  uploadId: 489201

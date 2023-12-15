@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0a7f77105d5f845c5a03d328b4d14aee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scripts/Editor/PickupActionEditor.cs
+  uploadId: 489201

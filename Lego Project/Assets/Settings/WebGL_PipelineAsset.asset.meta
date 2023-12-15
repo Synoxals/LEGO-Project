@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a14830f50e9b49c69840c99990991af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/Settings/WebGL_PipelineAsset.asset
+  uploadId: 489201

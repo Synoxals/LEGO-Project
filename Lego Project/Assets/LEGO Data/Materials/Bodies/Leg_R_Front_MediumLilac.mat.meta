@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d52a4107dc3240e6bf69ae0310234c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_R_Front_MediumLilac.mat
+  uploadId: 489201

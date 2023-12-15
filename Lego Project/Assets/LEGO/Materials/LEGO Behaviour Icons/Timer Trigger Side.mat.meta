@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7e5bb6c489f14eb0bb12454f18fd97f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Materials/LEGO Behaviour Icons/Timer Trigger Side.mat
+  uploadId: 489201

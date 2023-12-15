@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37f7874aca15e456fb8127f25b231c84
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Eyezor/Leg_R_Foot_Eyezor.mat
+  uploadId: 489201

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0bf4a7d593e8ee048be837c340ae442f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Variables/Variable Progress.prefab
+  uploadId: 489201

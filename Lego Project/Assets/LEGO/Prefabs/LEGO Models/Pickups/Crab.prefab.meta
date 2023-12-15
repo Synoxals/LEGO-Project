@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0d50e868a16ca4d13b69fcd194a0d213
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Models/Pickups/Crab.prefab
+  uploadId: 489201

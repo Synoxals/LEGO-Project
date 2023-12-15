@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a903ac298a566463ea46c33786e64d44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Arm_Main_SilverMetallic.mat
+  uploadId: 489201

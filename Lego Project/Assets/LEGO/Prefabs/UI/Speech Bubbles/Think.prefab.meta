@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 750758b5bade14bda9d028ea89cf32e6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Speech Bubbles/Think.prefab
+  uploadId: 489201

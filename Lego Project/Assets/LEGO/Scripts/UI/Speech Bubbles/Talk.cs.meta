@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4b2a019ae23bd4b4382751ae3f1c3cda
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scripts/UI/Speech Bubbles/Talk.cs
+  uploadId: 489201

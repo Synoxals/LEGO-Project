@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aff9478d66dd64f50806cc4b2e619799
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Nya/Hip_Front_Nya.mat
+  uploadId: 489201

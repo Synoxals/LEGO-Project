@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21c868342cdff4b428274c7948ed0a9d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scenes/Playground Settings.lighting
+  uploadId: 489201

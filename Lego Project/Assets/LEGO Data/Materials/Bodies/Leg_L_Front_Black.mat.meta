@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8118a270e3b8f49c5a34170e410b102c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_L_Front_Black.mat
+  uploadId: 489201

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07f19acfdb8e141e3aa732c46c799915
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_R_Side_NewDarkRed.mat
+  uploadId: 489201

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b88cd899ce3b34bb8bff989336807d46
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Lloyd/Hip_Front_Lloyd.mat
+  uploadId: 489201

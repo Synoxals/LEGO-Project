@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4895cdcd78af5486589f6152e9f1c85a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Kai/Leg_L_Foot_Kai.mat
+  uploadId: 489201

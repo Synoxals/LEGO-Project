@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fde7e247a70b941089d89f85c55e4190
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/TextMesh Pro/Sprites/EmojiOne_License.txt
+  uploadId: 489201

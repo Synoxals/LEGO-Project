@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea8333c61e4d146688fb63b36d77bf48
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/TextMesh Pro/Fonts/OFL.txt
+  uploadId: 489201

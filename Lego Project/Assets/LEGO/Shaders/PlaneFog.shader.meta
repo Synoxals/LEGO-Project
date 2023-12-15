@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0cb126ce9a08f334ebdf995d170f08b5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Shaders/PlaneFog.shader
+  uploadId: 489201

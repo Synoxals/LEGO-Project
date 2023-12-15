@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7e1f16020543495aa6865794ec5173e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_R_Main_BrightYellowGreen.mat
+  uploadId: 489201

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3af4bfec8b7f648799fc51246a995e02
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Projectiles/Cannonball.prefab
+  uploadId: 489201

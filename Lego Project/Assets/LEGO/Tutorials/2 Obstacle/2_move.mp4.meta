@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 0534fa710739b254c98db3a3f72a00dd
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: 
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Tutorials/2 Obstacle/2_move.mp4
+  uploadId: 489201
+VideoClipImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  frameRange: 0
+  startFrame: -1
+  endFrame: -1
+  colorSpace: 0
+  deinterlace: 0
+  encodeAlpha: 0
+  flipVertical: 0
+  flipHorizontal: 0
+  importAudio: 1
+  targetSettings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: def373ff2582cbb43ad660716b79fd3a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Hip_Main_ReddishBrown.mat
+  uploadId: 489201

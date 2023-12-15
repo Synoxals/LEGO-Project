@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7322caa293cb714082e260759ed5330
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Tutorials/4 Win Conditions/4 Win.asset
+  uploadId: 489201

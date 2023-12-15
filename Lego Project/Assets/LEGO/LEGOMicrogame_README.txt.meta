@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 732a89bf8ea036a4eaafeff59096c00a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/LEGOMicrogame_README.txt
+  uploadId: 489201

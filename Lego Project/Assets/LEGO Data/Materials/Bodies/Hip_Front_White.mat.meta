@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa8d82a22221b4e559ab8677ec303d7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Hip_Front_White.mat
+  uploadId: 489201

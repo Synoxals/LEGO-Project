@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fc727374a14dd43b7bd871e775b4733b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scripts/Editor/NearbyTriggerEditor.cs
+  uploadId: 489201

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7efeb4e6863c47c3b019dd05d92271f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Torso_Main_NewDarkRed.mat
+  uploadId: 489201

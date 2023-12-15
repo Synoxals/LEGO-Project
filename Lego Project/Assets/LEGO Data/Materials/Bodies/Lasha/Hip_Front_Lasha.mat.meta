@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3329e9dbbc4ce4a89bf86050618323ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Lasha/Hip_Front_Lasha.mat
+  uploadId: 489201

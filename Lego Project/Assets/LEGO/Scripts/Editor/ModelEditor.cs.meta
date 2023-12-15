@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fb978b6e0ce4c48a3b419c1923961c84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scripts/Editor/ModelEditor.cs
+  uploadId: 489201

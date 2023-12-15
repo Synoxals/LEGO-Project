@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1630b26bc958c4041a03d86941786cc2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/HatsAndHair/m40925_DarkAzure.mat
+  uploadId: 489201

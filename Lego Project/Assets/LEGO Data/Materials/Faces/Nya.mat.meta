@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 227b37e166c814bd78b8ff59ef76ce2f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Faces/Nya.mat
+  uploadId: 489201

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f90c7d3098fc4659b7fc9bb45df5fa7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Move.prefab
+  uploadId: 489201

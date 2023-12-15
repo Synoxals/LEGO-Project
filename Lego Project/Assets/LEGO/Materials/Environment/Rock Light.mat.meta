@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d51afecd4eeec438b8f1ce1b571c6619
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Materials/Environment/Rock Light.mat
+  uploadId: 489201

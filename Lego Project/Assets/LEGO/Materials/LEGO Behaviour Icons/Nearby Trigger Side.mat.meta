@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9be08ef393ed4d2bb3d9a380e80a824
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Materials/LEGO Behaviour Icons/Nearby Trigger Side.mat
+  uploadId: 489201

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e091f61a413b7c443bcb03c9d0e2f23a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Counter.prefab
+  uploadId: 489201

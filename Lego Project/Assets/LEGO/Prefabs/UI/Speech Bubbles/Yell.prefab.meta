@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef37a5beff14c4c43aa622484c1456f5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Speech Bubbles/Yell.prefab
+  uploadId: 489201

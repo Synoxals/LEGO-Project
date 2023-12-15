@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b8bc6e47513b40718464b34b369f262
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Faces/Cole.mat
+  uploadId: 489201

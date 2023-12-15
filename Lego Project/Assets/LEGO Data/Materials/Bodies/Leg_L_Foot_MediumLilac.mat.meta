@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ef52c272c0ec4fc194312e2789a67ac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_L_Foot_MediumLilac.mat
+  uploadId: 489201

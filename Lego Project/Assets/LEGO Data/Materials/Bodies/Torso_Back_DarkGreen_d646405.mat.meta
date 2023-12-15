@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91af3a4f74af74502bbd065805c1471a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Torso_Back_DarkGreen_d646405.mat
+  uploadId: 489201

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14c411293fa3844dda7a44a1e006eb6c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Alive.prefab
+  uploadId: 489201

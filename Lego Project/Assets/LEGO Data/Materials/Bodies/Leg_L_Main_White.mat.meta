@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eee80dbaa42054d48997246fe1946647
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_L_Main_White.mat
+  uploadId: 489201

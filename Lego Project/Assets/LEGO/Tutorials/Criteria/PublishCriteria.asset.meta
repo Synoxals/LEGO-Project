@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43f99256ccd065c47b41dc50b89eb706
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Tutorials/Criteria/PublishCriteria.asset
+  uploadId: 489201

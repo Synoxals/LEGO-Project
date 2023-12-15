@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b245cbced0dd7455995c8e021242a275
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Eyezor/Leg_R_Front_Eyezor.mat
+  uploadId: 489201

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a28bdac5d03dc46a9bd844e917360013
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Arm_Main_BrightBluishGreen.mat
+  uploadId: 489201

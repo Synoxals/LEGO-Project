@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4bf05f9d4348547509aa9abc99215e52
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_R_Front_EarthGreen.mat
+  uploadId: 489201

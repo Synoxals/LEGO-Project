@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5bb3f891580f94d4fac9fec77e6cfa76
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_R_Side_EarthBlue.mat
+  uploadId: 489201

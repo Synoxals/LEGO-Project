@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74681d8ed3504437daa9341df151e6fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Zane/Hip_Crotch_Zane.mat
+  uploadId: 489201

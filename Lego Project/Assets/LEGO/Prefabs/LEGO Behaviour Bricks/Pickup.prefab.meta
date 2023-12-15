@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aabede6d086ed4135905ba95940a38b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Pickup.prefab
+  uploadId: 489201

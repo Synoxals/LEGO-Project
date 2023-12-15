@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a9c70cdd00f24bc8bbd67bedd707f05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Jay/Leg_R_Front_Jay.mat
+  uploadId: 489201

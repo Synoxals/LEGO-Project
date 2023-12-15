@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6049808cc8e54f51b948deadd957771
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Speech Bubbles/Information Sign.prefab
+  uploadId: 489201

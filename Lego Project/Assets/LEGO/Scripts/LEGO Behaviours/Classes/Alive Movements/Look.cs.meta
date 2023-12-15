@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 58ca32d3ebeb8435db0c29236f39ae2e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scripts/LEGO Behaviours/Classes/Alive Movements/Look.cs
+  uploadId: 489201

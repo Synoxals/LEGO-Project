@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1e390fdd61cd5fd43ba3755270f39a9a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Variables/Variable Score.prefab
+  uploadId: 489201

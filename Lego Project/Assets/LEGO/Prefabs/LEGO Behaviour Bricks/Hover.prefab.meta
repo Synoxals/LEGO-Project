@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce1b1c9a8d68741c194647bf16ba5e33
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Hover.prefab
+  uploadId: 489201

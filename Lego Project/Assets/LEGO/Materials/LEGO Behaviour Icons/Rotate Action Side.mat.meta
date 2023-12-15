@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5f41d261f2394b95b885b51f2a244c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Materials/LEGO Behaviour Icons/Rotate Action Side.mat
+  uploadId: 489201

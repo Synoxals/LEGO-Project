@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb1df3f2d1986499494c66717f2d2522
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Arm_Main_BrightRed.mat
+  uploadId: 489201

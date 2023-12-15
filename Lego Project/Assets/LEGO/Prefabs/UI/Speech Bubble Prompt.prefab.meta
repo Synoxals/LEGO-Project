@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f2336181d72ea740bdf64bb1cd14b33
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Speech Bubble Prompt.prefab
+  uploadId: 489201

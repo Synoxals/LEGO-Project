@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66bfd05a811428e45addf6e9490739f4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Objective Win.prefab
+  uploadId: 489201

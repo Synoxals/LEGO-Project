@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e71bfa7eed3a41f788a600ef863e7b1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Look At.prefab
+  uploadId: 489201

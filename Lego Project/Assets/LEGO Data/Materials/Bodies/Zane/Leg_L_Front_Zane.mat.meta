@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7dd11e1a7851140a2befda8dfa6e115d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Zane/Leg_L_Front_Zane.mat
+  uploadId: 489201

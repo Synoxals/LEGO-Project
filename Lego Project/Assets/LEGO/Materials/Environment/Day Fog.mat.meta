@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8653923df740d704c9cbccac8ca81959
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Materials/Environment/Day Fog.mat
+  uploadId: 489201

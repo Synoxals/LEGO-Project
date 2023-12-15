@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a10c3c297ac048a7a2d8d30761c5bc9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Hip_Front_TitaniumMetallic.mat
+  uploadId: 489201

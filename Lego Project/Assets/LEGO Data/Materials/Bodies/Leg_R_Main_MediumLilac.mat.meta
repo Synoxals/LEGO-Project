@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d80b8e1f263b46feaae7c302a64d270
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_R_Main_MediumLilac.mat
+  uploadId: 489201

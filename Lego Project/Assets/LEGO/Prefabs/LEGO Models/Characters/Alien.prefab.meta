@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b69f35b5c82fed44851cf9359486c32
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Models/Characters/Alien.prefab
+  uploadId: 489201

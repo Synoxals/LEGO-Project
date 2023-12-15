@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f90b9509fc02140069fbd45f28df91be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Lasha/Torso_Front_Lasha.mat
+  uploadId: 489201

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0bd8f30ab8924ae6b942360f5f3e4ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Zane/Hip_Front_Zane.mat
+  uploadId: 489201

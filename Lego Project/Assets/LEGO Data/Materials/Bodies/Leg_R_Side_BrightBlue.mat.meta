@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62fcb2bab5f594bc1a567dff350173d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_R_Side_BrightBlue.mat
+  uploadId: 489201

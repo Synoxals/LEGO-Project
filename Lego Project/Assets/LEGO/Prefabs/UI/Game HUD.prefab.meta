@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68ea2f971bec30347ad00bc8f4e78891
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Game HUD.prefab
+  uploadId: 489201

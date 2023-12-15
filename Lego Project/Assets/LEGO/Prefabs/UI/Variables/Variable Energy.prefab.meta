@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71f6e633c437d3f49a7871f324f0bc12
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/UI/Variables/Variable Energy.prefab
+  uploadId: 489201

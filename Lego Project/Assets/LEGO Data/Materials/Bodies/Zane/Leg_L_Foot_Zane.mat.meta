@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d4378e54ea4b4734a192a762a7d6b27
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Zane/Leg_L_Foot_Zane.mat
+  uploadId: 489201

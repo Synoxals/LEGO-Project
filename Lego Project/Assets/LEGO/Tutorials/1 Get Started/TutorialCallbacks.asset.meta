@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 743fc35f8da11d34ca3ef73a7c5ccdaa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Tutorials/1 Get Started/TutorialCallbacks.asset
+  uploadId: 489201

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ad34d748b0f8584ab90acec1c11f21f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Counter Trigger.prefab
+  uploadId: 489201

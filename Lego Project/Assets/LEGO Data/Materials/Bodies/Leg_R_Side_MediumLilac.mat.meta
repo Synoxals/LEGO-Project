@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7aa176c74ae534976b0639b3fb0b9b41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_R_Side_MediumLilac.mat
+  uploadId: 489201

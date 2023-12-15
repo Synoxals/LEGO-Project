@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8df38e4ac1b60b4d907a67b572506d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Geometry/PickingMesh/28870.asset
+  uploadId: 489201

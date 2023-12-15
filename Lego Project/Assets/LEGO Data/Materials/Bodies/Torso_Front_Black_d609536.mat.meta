@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c64d77eef19634bd1830b4e811e61820
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Torso_Front_Black_d609536.mat
+  uploadId: 489201

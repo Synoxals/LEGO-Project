@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f291fee012eeeba49820009e24bb71c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scripts/LEGO Behaviours/Classes/Control Movements/Character.cs
+  uploadId: 489201

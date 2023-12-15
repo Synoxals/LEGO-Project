@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9e9a0e6f7f990410b8679e3d20a98f2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scripts/Editor/HazardActionEditor.cs
+  uploadId: 489201

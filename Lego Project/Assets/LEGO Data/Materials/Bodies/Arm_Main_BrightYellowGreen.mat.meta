@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 720c0a1d6c54f4a709ccbf46e76379fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Arm_Main_BrightYellowGreen.mat
+  uploadId: 489201

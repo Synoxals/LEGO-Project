@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 417dfeada97c8614483936c399c616a9
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scripts/Utilities/Unity.LEGO.Utilities.asmdef
+  uploadId: 489201

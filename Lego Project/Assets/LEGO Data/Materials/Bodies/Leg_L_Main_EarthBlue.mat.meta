@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91f6129c8fec94600ba0f1259815cf56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_L_Main_EarthBlue.mat
+  uploadId: 489201

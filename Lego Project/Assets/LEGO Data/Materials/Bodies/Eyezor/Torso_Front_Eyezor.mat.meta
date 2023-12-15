@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5501965950ec14699858513cd2789e7b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Eyezor/Torso_Front_Eyezor.mat
+  uploadId: 489201

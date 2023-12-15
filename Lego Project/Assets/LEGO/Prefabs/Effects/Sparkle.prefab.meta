@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b096279cf46d9461fb5f199c8d5fde6e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/Effects/Sparkle.prefab
+  uploadId: 489201

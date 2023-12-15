@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ada66f76e7ad540b6bb10a35877760e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Leg_R_Side_BrightRed.mat
+  uploadId: 489201

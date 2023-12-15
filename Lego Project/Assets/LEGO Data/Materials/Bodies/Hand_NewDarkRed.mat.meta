@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51d75511baf4b4bf4ab2367db9ba8d6d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Hand_NewDarkRed.mat
+  uploadId: 489201

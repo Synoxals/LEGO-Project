@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2422d7b828ad14ec5b6ac73d80aeb92e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Spawn.prefab
+  uploadId: 489201

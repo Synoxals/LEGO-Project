@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3c71fee3db584dd9b6011fb2b044215
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Models/Characters/Wizard.prefab
+  uploadId: 489201
